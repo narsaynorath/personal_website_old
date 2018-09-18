@@ -11,11 +11,11 @@ const Education = () => (
     <div className="nine columns main-col">
       <div className="row item">
         <div className="twelve columns">
-          <h3>University of Life</h3>
+          <h3>University of Toronto</h3>
           <p className="info">
-            Master in Graphic Design
+            Computer Science, Mathematics, Human Physiology
             <span>&bull;</span>
-            <em className="date">April 2007</em>
+            <em className="date">June 2019</em>
           </p>
 
           <p>
@@ -30,7 +30,7 @@ const Education = () => (
         </div>
       </div>
 
-      <div className="row item">
+      {/*<div className="row item">
         <div className="twelve columns">
           <h3>School of Cool Designers</h3>
           <p className="info">
@@ -48,7 +48,7 @@ const Education = () => (
             ornare odio. Sed non mauris vitae erat
           </p>
         </div>
-      </div>
+      </div> */}
     </div>
   </div>
 );

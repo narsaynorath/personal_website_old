@@ -19,6 +19,7 @@ const Navigation = () => (
           Resume
         </a>
       </li>
+      {/*
       <li>
         <a className="smoothscroll" href="#portfolio">
           Works
@@ -29,6 +30,7 @@ const Navigation = () => (
           Testimonials
         </a>
       </li>
+      */}
       <li>
         <a className="smoothscroll" href="#footer">
           Footer

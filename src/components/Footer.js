@@ -18,7 +18,7 @@ const Footer = () => (
           </li>
           <li>
             Developed in React ⚛️ by{" "}
-            <a href="http://www.amanhimself.me">Aman Mittal</a>
+            <a href="#home">Nar Saynorath</a>
           </li>
         </ul>
       </div>

@@ -936,6 +936,10 @@ header .scrolldown a:hover {
 
 /* primary navigation
 --------------------------------------------------------------------- */
+#nav {
+  background: rgb(0, 0, 0, 0.8);
+}
+
 #nav-wrap ul,
 #nav-wrap li,
 #nav-wrap a {
@@ -2341,12 +2345,3 @@ footer .social li:first-child {
  footer .social li { margin-left: 14px; }
 
 }
-
-
-
-
-
-
-
-
-

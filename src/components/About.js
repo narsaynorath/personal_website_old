@@ -27,16 +27,15 @@ const About = () => (
           <div className="columns contact-details">
             <h2>Contact Details</h2>
             <p className="address">
-              <span>Jonathan Doe</span>
+              <span>Nar Saynorath</span>
               <br />
               <span>
-                1600 Amphitheatre Parkway
-                <br /> Mountain View, CA 94043 US
+                2-118 Brunswick Ave.
+                <br /> Toronto, ON M5S 2M2 Canada
               </span>
               <br />
-              <span>(123)456-7890</span>
+              <span>(647)-667-2752</span>
               <br />
-              <span>anyone@website.com</span>
             </p>
           </div>
           <div className="columns download">
