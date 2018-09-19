@@ -1,5 +1,9 @@
 import React from "react";
+<<<<<<< HEAD
 // import { FaCloudDownloadAlt } from "react-icons/fa";
+=======
+import { FaCloudDownload } from "react-icons/fa";
+>>>>>>> TODO: Upgrade to gatsby 2.0
 
 import profilePic from "../assets/images/profilepic.jpg";
 

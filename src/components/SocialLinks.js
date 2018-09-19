@@ -3,7 +3,14 @@ import {
   FaEnvelope,
   FaFacebook,
   FaGithub,
+<<<<<<< HEAD
   FaLinkedin
+=======
+  FaGooglePlus,
+  FaInstagram,
+  FaLinkedin,
+  FaTwitter
+>>>>>>> TODO: Upgrade to gatsby 2.0
 } from "react-icons/fa";
 // https://gorangajic.github.io/react-icons/fa.html
 
