@@ -3,11 +3,8 @@ import {
   FaEnvelope,
   FaFacebook,
   FaGithub,
-  FaGooglePlus,
-  FaInstagram,
-  FaLinkedin,
-  FaTwitter
-} from "react-icons/lib/fa";
+  FaLinkedin
+} from "react-icons/fa";
 // https://gorangajic.github.io/react-icons/fa.html
 
 const SocialLinks = () => (

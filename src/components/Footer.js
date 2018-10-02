@@ -25,7 +25,7 @@ const Footer = () => (
 
       <div id="go-top">
         <a className="smoothscroll" title="Back to Top" href="#home">
-          <FaChevronCircleUp />
+          <FaChevronCircleUp style={{ position: "relative", top: "4px" }} />
         </a>
       </div>
     </div>

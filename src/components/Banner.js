@@ -6,7 +6,15 @@ const Banner = () => (
     <div className="banner-text">
       <h1 className="responsive-headline">I'm Nar Saynorath.</h1>
       <h3>
-        I'm a Toronto based <span>software engineer</span>.
+        I'm a Toronto based <span>software engineer</span> currently
+        attending the <span>University of Toronto</span>.
+        I am passionate about applying my love for technology to solve problems
+        for users in the realms of both <span>user experience</span> and
+        <span>
+          {" "}
+          developing features
+        </span>{" "}
+        they need to live their best lives.
         Let's
         <a className="smoothscroll" href="#about">
           {" "}

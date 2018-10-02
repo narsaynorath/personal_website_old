@@ -874,7 +874,7 @@ header .banner-text h1 {
   text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.8);
 }
 header .banner-text h3 {
-  font: 18px/1.9em "librebaskerville-regular", serif;
+  font: 18px/1.9em "opensans-regular", sans-serif;
   color: #a8a8a8;
   margin: 0 auto;
   width: 70%;
@@ -1049,7 +1049,6 @@ ul#nav li.current a {
 }
 #about .download {
   width: 58.33333%;
-  padding-top: 6px;
 }
 #about .main-col {
   padding-right: 5%;
