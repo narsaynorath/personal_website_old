@@ -8,19 +8,15 @@ const Banner = () => (
       <h3>
         I'm a Toronto based <span>software engineer</span> currently
         attending the <span>University of Toronto</span>.
-        I am passionate about applying my love for technology to solve problems
-        for users in the realms of both <span>user experience</span> and
+        I am passionate about applying my love for solving problems through technology
+        to improve both the <span>user experience</span> and
         <span>
           {" "}
-          developing features
+          functionality
         </span>{" "}
-        they need to live their best lives.
-        Let's
-        <a className="smoothscroll" href="#about">
-          {" "}
-          start scrolling
-        </a>{" "}
-        and learn more
+        of software for customers.
+        <br />
+        Let's learn more
         <a className="smoothscroll" href="#about">
           {" "}
           about me

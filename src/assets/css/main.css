@@ -114,6 +114,15 @@ table {
    border-spacing: 0;
 }
 
+th,
+td {
+  line-height: 20px;
+}
+
+th {
+  padding: 10px 0;
+}
+
 
 /* ------------------------------------------------------------------ */
 /* c. Default and Basic Styles
@@ -143,7 +152,7 @@ body {
    font-weight: normal;
    font-size: 15px;
    line-height: 30px;
-	color: #838C95;
+	 color: #838C95;
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 	-webkit-text-size-adjust: 100%;
@@ -1022,7 +1031,7 @@ ul#nav li.current a {
 
 #about a,
 #about a:visited {
-  color: #fff;
+  color: #7a7a7a;
 }
 #about a:hover,
 #about a:focus {
@@ -1123,7 +1132,6 @@ ul#nav li.current a {
   margin-left: 5px;
 }
 #resume .date {
-
   margin-top: 6px;
 }
 

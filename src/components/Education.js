@@ -18,15 +18,33 @@ const Education = () => (
             <em className="date">June 2019</em>
           </p>
 
-          <p>
-            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-            commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-            penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-            Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-            Nulla consequat massa quis enim. Donec pede justo, fringilla vel,
-            aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede
-            mollis pretium.
-          </p>
+          <h5>
+            Relevant Coursework
+          </h5>
+          <ul>
+            <li>
+              <div>
+                <h6>In-Progress</h6>
+                <ul>
+                  <li>CSC411: Introduction to Machine Learning</li>
+                  <li>CSC258: Computer Organization</li>
+                  <li>CSC209: Software Tools and Systems Programming</li>
+                </ul>
+              </div>
+            </li>
+            <li>
+              <div>
+                <h6>Completed</h6>
+                <ul>
+                  <li>CSC263: Data Structures</li>
+                  <li>CSC207: Software Design</li>
+                  <li>CSC236: Introduction to Theory of Computation</li>
+                  <li>CSC165: Mathematical Expression and Reasoning for Computer Science</li>
+                  <li>CSC148: Intro to Computer Programming</li>
+                </ul>
+              </div>
+            </li>
+          </ul>
         </div>
       </div>
 
