@@ -1,6 +1,6 @@
 import React from "react";
 import SocialLinks from "./SocialLinks";
-import { FaChevronCircleUp } from "react-icons/lib/fa";
+import { FaChevronCircleUp } from "react-icons/fa";
 
 const Footer = () => (
   <footer id="footer">
@@ -17,7 +17,7 @@ const Footer = () => (
             </a>
           </li>
           <li>
-            Developed in React ⚛️ by{" "}
+            Developed in React <span role="img" aria-label="React Emoji">⚛️</span> by{" "}
             <a href="#home">Nar Saynorath</a>
           </li>
         </ul>

@@ -1,5 +1,5 @@
 import React from "react";
-import { FaCloudDownloadAlt } from "react-icons/fa";
+// import { FaCloudDownloadAlt } from "react-icons/fa";
 
 import profilePic from "../assets/images/profilepic.jpg";
 
