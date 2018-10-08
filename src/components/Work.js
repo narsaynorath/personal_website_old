@@ -11,42 +11,36 @@ const Work = () => (
     <div className="nine columns main-col">
       <div className="row item">
         <div className="twelve columns">
-          <h3>Awesome Design Studio</h3>
+          <h3>Security Compass - SD Elements</h3>
           <p className="info">
-            Senior UX Designer
+            Software Engineer Intern
             <span>&bull;</span>
-            <em className="date">March 2010 - Present</em>
+            <em className="date">May 2017 - August 2018</em>
           </p>
 
-          <p>
-            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-            commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-            penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-            Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-            Nulla consequat massa quis enim. Donec pede justo, fringilla vel,
-            aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede
-            mollis pretium.
-          </p>
+          <ul className="circle">
+            <li>Frontend: Implemented the redesign of several integral application pages with ReactJS and Redux to provide customers with a modern user interface, resulting in notable positive feedback from customers</li>
+            <li>Backend: Developed new API endpoints, implemented features in existing ones, and created new Django commands to improve functionality for client-facing API</li>
+            <li>Worked with UX Designers and Product Managers in an Agile environment to identify and negotiate developer acceptance criteria for client needs and customizations</li>
+            <li>Experienced Developer Support sprints and resolved client Zendesk issues/inquiries requiring developer domain knowledge</li>
+          </ul>
         </div>
       </div>
 
       <div className="row item">
         <div className="twelve columns">
-          <h3>Super Cool Studio</h3>
+          <h3>SickKids Hospital</h3>
           <p className="info">
-            UX Designer
+            Lab Assistant
             <span>&bull;</span>
-            <em className="date">March 2007 - February 2010</em>
+            <em className="date">September 2015 - March 2016</em>
           </p>
 
-          <p>
-            This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
-            velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum
-            auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
-            Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
-            Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a
-            ornare odio. Sed non mauris vitae erat
-          </p>
+          <ul className="circle">
+            <li>Performed fish husbandry tasks, such as preparing and distributing feed, creating mating pairs, and maintaining specimen environments</li>
+            <li>Communicated to colleagues about proper lab techniques, procedure changes, and specimen health</li>
+            <li>Took initiative to self-assign tasks when planned work was completed</li>
+          </ul>
         </div>
       </div>
     </div>
