@@ -1,5 +1,4 @@
 import React from "react";
-// import { FaCloudDownloadAlt } from "react-icons/fa";
 
 import profilePic from "../assets/images/profilepic.jpg";
 
@@ -12,7 +11,14 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>About Me</h2>
         <p>
-          Something about me.
+          I consider myself a well-rounded individual who's a strong team player.
+          Nothing makes me feel more satisfied than accomplishing goals with one another,
+          especially if we learn a lot during the way!
+        </p>
+
+        <p>
+          I am always interested in researching new technology and iterating on my own
+          development process and methodologies until we get it right.
         </p>
         <div className="row">
           <div className="columns contact-details">
@@ -28,14 +34,6 @@ const About = () => (
               <br />
             </p>
           </div>
-          {/* TODO: Add download resume button
-            <div className="columns download">
-            <p>
-              <a href="https://drive.google.com/file/d/1JGNomJQM0wFUnSz9z1MEMxmrdhubGrsa/view?usp=sharing" download>
-                <FaCloudDownloadAlt style={{ paddingTop: '4px' }} /> Download Resume
-              </a>
-            </p>
-          </div> */}
         </div>
       </div>
     </div>

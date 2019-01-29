@@ -26,9 +26,9 @@ const Education = () => (
               <div>
                 <h6>In-Progress</h6>
                 <ul>
-                  <li>CSC411: Introduction to Machine Learning</li>
-                  <li>CSC258: Computer Organization</li>
-                  <li>CSC209: Software Tools and Systems Programming</li>
+                  <li>CSC373: Algorithm Design, Analysis & Complexity</li>
+                  <li>CSC369: Operating Systems</li>
+                  <li>CSC343: Introduction to Databases</li>
                 </ul>
               </div>
             </li>
@@ -36,6 +36,8 @@ const Education = () => (
               <div>
                 <h6>Completed</h6>
                 <ul>
+                  <li>CSC258: Computer Organization</li>
+                  <li>CSC209: Software Tools and Systems Programming</li>
                   <li>CSC263: Data Structures</li>
                   <li>CSC207: Software Design</li>
                   <li>CSC236: Introduction to Theory of Computation</li>
