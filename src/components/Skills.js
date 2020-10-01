@@ -20,7 +20,7 @@ const Skills = () => (
         </tr>
         <tr>
           <th>Tools</th>
-          <td>Git, GitLab, GitHub, Vim, PyCharm, JIRA</td>
+          <td>Git, GitLab, GitHub, Vim, VS Code, PyCharm, JIRA</td>
         </tr>
         <tr>
           <th>Operating Systems</th>
