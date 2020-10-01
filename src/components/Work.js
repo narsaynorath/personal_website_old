@@ -13,6 +13,11 @@ const Work = () => (
         <div className="twelve columns">
           <h3>Security Compass - SD Elements</h3>
           <p className="info">
+            Software Engineer
+            <span>&bull;</span>
+            <em className="date">September 2019 - Present</em>
+		  </p>
+          <p className="info">
             Software Engineer Intern
             <span>&bull;</span>
             <em className="date">May 2017 - August 2018</em>
